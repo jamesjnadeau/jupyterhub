@@ -12,3 +12,4 @@ requests
 SQLAlchemy>=1.1
 tornado>=5.0
 traitlets>=4.3.2
+PyJWT>=1.5.3
